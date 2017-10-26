@@ -97,19 +97,4 @@ public class Studerende {
     public void setBy(String by) {
         this.by = by;
     }
-
-
-
-
-/*
-    //Udskrivnings metode
-    public void seedata() {
-
-
-            System.out.println("Den studerende er en " + køn + " og hedder " + navn);
-            System.out.println("Vedkommende er " + alder + " år gammel");
-            System.out.println("Og bor på adressen: " + " \n" + adresse + " \n" + postnummer + " \n" + by);
-
-    }*/
-
 }

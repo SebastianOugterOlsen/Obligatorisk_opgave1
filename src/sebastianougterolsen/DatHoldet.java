@@ -9,7 +9,7 @@ public class DatHoldet {
      */
 
 
-                // Opretter random studerende
+    // Opretter random studerende
        Studerende stud0001 = new Studerende("Sebastian Ougter");
 
 
